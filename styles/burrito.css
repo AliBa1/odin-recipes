@@ -11,6 +11,27 @@ body {
     text-align: start;
 }
 
+.lists {
+    /* display: flex; */
+    /* border: 2px red solid; */
+}
+
+.ingredients, .steps{
+    /* border: 2px blue solid; */
+    margin: 4px auto;
+    padding: 8px;
+    /* DELETE LATER */
+    text-align: start;
+}
+
+.ingredients {
+    
+}
+
+.steps {
+
+}
 .list {
     text-align: start;
+    margin-top: -2px;
 }
